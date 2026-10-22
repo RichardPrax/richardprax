@@ -3,22 +3,30 @@
 # Hi, I'm Richard 👋
 
 <a href="https://richardprax.de">
-  <img src="https://readme-typing-svg.demolab.com/?lines=App+%26+Web+Developer;React+Native+%26+Expo+%F0%9F%93%B1;Next.js+%26+React+%F0%9F%8C%90;Building+Beach+Together+%F0%9F%8F%90;M.Sc.+Informatik+%40+FH+Erfurt&font=Fira+Code&center=true&width=600&height=45&color=0EA5E9&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+f%C3%BCr+KI-Integration;6+eigene+Apps+mit+MCP-Schnittstelle;Next.js+%26+React+Native;M.Sc.+Informatik+%40+FH+Erfurt&font=Fira+Code&center=true&width=600&height=45&color=0EA5E9&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
 </div>
 
 ### 🧭 About Me
 
-- 💻 App- & Webentwickler mit Fokus auf **React Native/Expo** (Mobile) und **Next.js/React** (Web) — von der Idee bis zum Release
-- 🏐 Gründer & Entwickler von **Beach Together** — einer Community-App für Beachsport-Enthusiasten, live im App Store
-- 🎓 Masterstudent Angewandte Informatik an der Fachhochschule Erfurt — Bachelor mit Note **1,2** abgeschlossen
-- 🧪 Praxiserfahrung in Testautomatisierung (Playwright, Selenium) als Werkstudent bei der **IBYKUS AG** — hilft mir, robusten, gut testbaren Code zu schreiben
-- 🌍 Aus Erfurt, Deutschland — auf dem Weg, mich weiter in Richtung App- & Webentwicklung zu spezialisieren
+> Ich baue Software, mit der KI arbeiten kann – und prüfe, ob sie das zuverlässig tut.
+
+- 🤖 **KI-Integration:** sechs eigene Apps mit MCP-Schnittstelle (Immo-Check, Lerncoach, Cockpit …), die Claude direkt bedienen kann
+- 🧪 **KI-Qualität:** Bachelorarbeit zu KI-gestützter End-to-End-Testautomatisierung (Note **1,0**, Förderpreis der FH Erfurt), heute KI in der Testautomatisierung als Werkstudent bei der **IBYKUS AG**
+- 📱 **Web & Mobile:** Next.js und React Native/Expo – **Beach Together** mit 600 registrierten Nutzern im App Store
+- 🚀 **Vom Prototyp in den Betrieb:** eigener Server mit Docker, automatischen Releases, Backups und Monitoring
+- 🎓 Masterstudent Angewandte Informatik an der FH Erfurt (Bachelor **1,2**)
 
 ---
 
 ### 🛠️ Tech Stack
+
+**🤖 KI-Integration & Qualität**
+
+![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
 
 **📱 Mobile Development**
 
@@ -61,36 +69,56 @@
 
 ---
 
-### 🚀 Projekte & Meilensteine
+### 🚀 Fallstudien
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏐 Beach Together**
-*Community-App für Beachvolleyball-Enthusiasten — im App Store live*
+**🏠 [Immo-Check](https://richardprax.de/projekte/immo-check/)**
+*Wohnungsinserate in Minuten bewerten – im Browser oder über Claude*
 
-`React Native` `Expo` `Supabase` `PostgreSQL`
+`Next.js` `SQLite` `MCP` `PWA`
 
-Von der Idee bis zum Launch: eigenständig konzipiert, entwickelt und veröffentlicht, inklusive Backend, Auth und Community-Features.
+Getesteter Rechenkern, Standortdaten aus offenen Quellen, Score aus 19 Kriterien, 16 MCP-Werkzeuge. [Live ausprobieren →](https://richardprax.de/demos/#immo)
 
 </td>
 <td width="50%" valign="top">
 
-**🌊 back2move**
-*Responsive Website mit modernen Animationen*
+**🏐 [Beach Together](https://richardprax.de/projekte/beach-together/)**
+*Community-App für Beachvolleyball*
 
-`Next.js` `TailwindCSS` `Framer Motion`
+`React Native` `Expo` `Supabase` `Maestro`
 
-Moderne, performante Website mit sauberem UI und flüssigen Animationen.
+600 registrierte Nutzer, 612 Unit-Tests, 25 ADRs, im App Store und bei Google Play.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [Bachelorarbeit](https://richardprax.de/projekte/bachelorarbeit/)**
+*Empirische Evaluierung KI-gestützter End-to-End-Testautomatisierung*
+
+`LLMs` `Evaluation` `Playwright` `Java`
+
+Note 1,0, Förderpreis der FH Erfurt.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Websites mit CMS](https://richardprax.de/projekte/websites/)**
+*Seiten, die Betreiber selbst pflegen*
+
+`Next.js` `Keystatic` `Docker`
+
+back2move.de live, weitere Seiten für Verein und Betriebe im Bau.
 
 </td>
 </tr>
 </table>
 
-**🎓 Akademischer & QA-Hintergrund**
-
-Bachelorarbeit *"Empirische Evaluierung KI-gestützter End-to-End-Testautomatisierung"* mit **1,0** bewertet und mit dem Förderpreis der FH Erfurt ausgezeichnet. Praxiserfahrung als Werkstudent QA bei der **IBYKUS AG** — dieser Hintergrund fließt heute in sauberen, testbaren App- und Web-Code ein.
+**▶️ [Demos auf richardprax.de](https://richardprax.de/demos/)** – Immo-Rechner und Lernkarten mit echtem App-Code, ein aufgezeichneter Claude-Ablauf und kurze Videos.
 
 ---
 
