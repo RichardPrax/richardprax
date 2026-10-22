@@ -26,7 +26,6 @@
 
 ![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![DeepEval](https://img.shields.io/badge/DeepEval-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
 
 **📱 Mobile Development**
